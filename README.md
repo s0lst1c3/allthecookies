@@ -15,7 +15,11 @@ ALLTHECOOKIES has four modes
  - guarded redirect - redirects users to cookie stealer, then quickly redirects them back to target
  - ajax - silently steals cookies in the background using AJAX
 
-To use ALLTHECOOKIES, just execute run.sh and follow the prompts.
+## Usage
+
+To use ALLTHECOOKIES, just execute run.sh:
+
+	./run.sh
 
 ## Installation
 
