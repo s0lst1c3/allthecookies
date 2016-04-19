@@ -6,7 +6,7 @@ Assorted cookie stealers for performing session hijacking attacks against websit
 
 Written by [s0lst1c3](https://twitter.com/s0lst1c3) for XSS-SESSION-HIJACKING blogpost at
 
-	http://solstice.me
+	[solstice.me](http://solstice.me)
 
 Assorted cookie stealers for performing session hijacking attacks against websites vulnerable to xss. Shoutout to [Hom1n1s](https://twitter.com/Hom1n1s) for coming up with the name.
 
